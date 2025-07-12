@@ -5,11 +5,11 @@
 🚀 I specialize in tools and practices like Kubernetes, Ansible, Terraform, and Linux server management. I'm continuously learning and sharing my knowledge through hands-on projects and blog content.
 
 🔍 Currently exploring:
-- 🔧 Slurm cluster setup and job scheduling
-- ⚙️ Infrastructure automation with Ansible & Terraform
-- 🔐 Hardening Linux environments and automating security compliance
-- ☁️ Cloud provisioning using Alibaba Cloud and OCI
-- 📦 Containerization and GitOps using AWX and Kustomize
+- 🔧 Slurm cluster setup and job scheduling for HPC environments
+- ⚙️ Infrastructure automation using Ansible & AWX
+- 🔐 Hardening Linux environments and enforcing security compliance with automation
+- ☁️ Cloud Architect Alibaba, OCI, and AWS Cloud
+- 📦 Containerization and GitOps
 
 🙌 I believe in collaboration, continuous improvement, and contributing back to the community through open-source and knowledge sharing.
 
@@ -17,7 +17,7 @@
 
 ❤️ **I am inspired by:**
 
-![Linux](https://img.shields.io/badge/-Linux-333?logo=linux&logoColor=white)
+[![Linux](https://img.shields.io/badge/-Linux-333?logo=linux&logoColor=white)](https://www.redhat.com)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326ce5?logo=kubernetes&logoColor=white)
 ![Ansible](https://img.shields.io/badge/-Ansible-ee0000?logo=ansible&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-5c4ee5?logo=terraform&logoColor=white)
@@ -30,7 +30,7 @@
 ⭐ **My GitHub Activity**
 
 <!-- GitHub Stats Widgets -->
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=abidbajwa951&show_icons=true&theme=radical" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abidbajwa951&layout=compact&theme=radical" /> | ![Abid's GitHub stats](https://github-readme-stats.vercel.app/api?username=abidbajwa951&show_icons=true&theme=radical)
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=abidbajwa951&show_icons=true&theme=radical" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abidbajwa951&layout=compact&theme=radical" /> |
 | ------------- | ------------- |
 
 <!-- Add other widgets like streaks or trophies if needed -->
