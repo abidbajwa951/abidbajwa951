@@ -39,7 +39,7 @@
 
 📊 **My Contribution Activity**
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=abidbajwa951&theme=github-compact)
+![GitHub Streak](https://streak-stats.demolab.com?user=abidbajwa951&theme=github-dark&hide_border=false)
 
 
 ---
