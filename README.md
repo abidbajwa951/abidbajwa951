@@ -37,6 +37,12 @@
 
 ---
 
+📊 **My Contribution Activity**
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact)
+
+
+---
 📫 **How to reach me**:
 - 💼 [LinkedIn](https://www.linkedin.com/in/abidbajwa)
 - 🌐 [Your Blog or Website](https://linuxride.com)
