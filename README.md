@@ -18,12 +18,12 @@
 ❤️ **I am inspired by:**
 
 [![Linux](https://img.shields.io/badge/-Linux-333?logo=linux&logoColor=white)](https://www.redhat.com)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326ce5?logo=kubernetes&logoColor=white)
-![Ansible](https://img.shields.io/badge/-Ansible-ee0000?logo=ansible&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-5c4ee5?logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088ff?logo=github-actions&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232f3e?logo=amazon-aws&logoColor=white)
-![OCI](https://img.shields.io/badge/-Oracle%20Cloud-f80000?logo=oracle&logoColor=white)
+[![Kubernetes](https://img.shields.io/badge/-Kubernetes-326ce5?logo=kubernetes&logoColor=white)](https://kubernetes.io)
+[![Ansible](https://img.shields.io/badge/-Ansible-ee0000?logo=ansible&logoColor=white)](https://www.redhat.com/en/ansible-collaborative?intcmp=7015Y000003t7aWQAQ)
+[![Terraform](https://img.shields.io/badge/-Terraform-5c4ee5?logo=terraform&logoColor=white)](https://developer.hashicorp.com/terraform)
+[![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088ff?logo=github-actions&logoColor=white)](https://about.gitlab.com/)
+[![AWS](https://img.shields.io/badge/-AWS-232f3e?logo=amazon-aws&logoColor=white)](https://aws.amazon.com)
+[![OCI](https://img.shields.io/badge/-Oracle%20Cloud-f80000?logo=oracle&logoColor=white)](https://www.oracle.com/sa/cloud/)
 
 ---
 
