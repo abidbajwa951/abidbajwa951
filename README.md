@@ -30,7 +30,7 @@
 ⭐ **My GitHub Activity**
 
 <!-- GitHub Stats Widgets -->
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=abidbajwa951&show_icons=true&theme=radical" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abidbajwa951&layout=compact&theme=radical" /> |
 | ------------- | ------------- |
 
 <!-- Add other widgets like streaks or trophies if needed -->
@@ -38,5 +38,5 @@
 ---
 
 📫 **How to reach me**:
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 🌐 [Your Blog or Website](https://yourwebsite.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/abidbajwa)
+- 🌐 [Your Blog or Website](https://linuxride.com)
