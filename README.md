@@ -27,18 +27,6 @@
 
 ---
 
-⭐ **My GitHub Activity**
-
-<!-- GitHub Stats Widgets -->
-| | |
-|---|---|
-| <img src="https://github-readme-stats.vercel.app/api?username=abidbajwa951&show_icons=true&theme=radical" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abidbajwa951&layout=compact&theme=radical" /> |
-| ------------- | ------------- |
-
-<!-- Add other widgets like streaks or trophies if needed -->
-
----
-
 📊 **My Contribution Activity**
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=abidbajwa951&theme=github-dark&hide_border=false)
