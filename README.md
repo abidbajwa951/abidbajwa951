@@ -30,7 +30,9 @@
 ⭐ **My GitHub Activity**
 
 <!-- GitHub Stats Widgets -->
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=abidbajwa951&show_icons=true&theme=radical" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abidbajwa951&layout=compact&theme=radical" /> |
+| | |
+|---|---|
+| <img src="https://github-readme-stats.vercel.app/api?username=abidbajwa951&show_icons=true&theme=radical" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abidbajwa951&layout=compact&theme=radical" /> |
 | ------------- | ------------- |
 
 <!-- Add other widgets like streaks or trophies if needed -->
